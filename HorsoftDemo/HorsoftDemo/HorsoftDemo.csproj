@@ -57,6 +57,29 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="imgs\background.jpg" />
+    <Content Include="imgs\background2.jpg" />
+    <Content Include="imgs\backward.png" />
+    <Content Include="imgs\backwardHover.png" />
+    <Content Include="imgs\bat.png" />
+    <Content Include="imgs\cat.png" />
+    <Content Include="imgs\dog.png" />
+    <Content Include="imgs\forward.png" />
+    <Content Include="imgs\forwardHover.png" />
+    <Content Include="imgs\HiddenMenu.png" />
+    <Content Include="imgs\horsoft.jpg" />
+    <Content Include="imgs\horsoftLogo.png" />
+    <Content Include="imgs\Looser.png" />
+    <Content Include="imgs\MK1.jpg" />
+    <Content Include="imgs\MK2.jpg" />
+    <Content Include="imgs\MK3.jpg" />
+    <Content Include="imgs\MK4.jpg" />
+    <Content Include="imgs\monitor_frame.png" />
+    <Content Include="imgs\monitor_frame2.png" />
+    <Content Include="imgs\MortalKombat3.png" />
+    <Content Include="imgs\soldier.png" />
+    <Content Include="imgs\stone.png" />
+    <Content Include="imgs\trophy_gold.ico" />
     <Content Include="Index.html" />
     <Content Include="Scripts\app.js" />
     <Content Include="Scripts\app\gameEngine.js" />
